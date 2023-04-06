@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.postmanEcho" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-06T13:26:17" hostname="DESKTOP-HSGG7MT" time="3.502">
+  <properties/>
+  <testcase name="shouldTestSomeData()" classname="ru.netology.postmanEcho" time="3.502"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
